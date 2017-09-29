@@ -3,11 +3,10 @@
 //  
 //
 //  Created by Leo Li on 9/23/17.
+//  s-vector.lee@hotmail.com
 //
 
-//CS_3013 proj3
-//zli12@wpi.edu
-//Ziheng(Leo) Li
+
 
 #include <stdio.h>
 #include <stdlib.h>
